@@ -19,9 +19,9 @@ A simple and engaging C++ program where users attempt to guess a randomly genera
 - **IDE:** DEV C++
 
 ## Example Gameplay
-Welcome to the Number Guessing Game!
-Guess a number between 1 and 100.
-Try to guess the number. Best of luck!
+Welcome to the Number Guessing Game!\n
+Guess a number between 1 and 100.\n
+Try to guess the number. Best of luck!\n
 
 Enter your guess: 50
 Too high! Try again: 25
